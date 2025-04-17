@@ -1,10 +1,8 @@
 body{
     font-family: "Arial","Meiryo",sans-serif;
     text-align: center;
-    
-}
-.decoration{
     font-size: 20px;
+    
 }
 h1 {
     font-family: "Josefin Sans", sans-serif;
@@ -14,6 +12,7 @@ h1 {
     letter-spacing: 1.2em;
     text-shadow: 1px 1px 2px gray;
     border-bottom: solid 3px rgb(115, 115, 114);
+    font-size: 40px;
   }
 .blue{
    color: skyblue;
