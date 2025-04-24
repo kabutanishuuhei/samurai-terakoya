@@ -135,7 +135,7 @@ body {
       color: #ffffff;
     }
 
-    #nav-sp.menu{
+    #nav-sp .menu{
       text-decoration: none;
       display: block;
       margin: 0px 20px 0px 20px;
