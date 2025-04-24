@@ -71,7 +71,7 @@ body {
   }
 
 
-@media screen and(max-width: 767px){
+@media screen and　(max-width: 767px){
     body{
         min-width: 375px;
         margin: 0;
